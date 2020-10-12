@@ -18,6 +18,7 @@ namespace HelloFunction
         {
             Program prg = new Program();
             Console.WriteLine(prg.getString());
+            Console.WriteLine("Enter Drücken zum Beenden...");
             Console.ReadLine();
         }
 

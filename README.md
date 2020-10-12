@@ -1,4 +1,4 @@
-# HSP-Vorlage-HelloFunction
+# HelloFunction
 Hochsprachenprogrammierung / Mecke an der Jade Hochschule
 
 Aufgabe: Implementieren Sie einen Algorithmus in der Methode "getString" innerhalb der Klasse "Program" BubbleSort\Program.cs, welcher den String "HelloFunction" zurückliefert.
